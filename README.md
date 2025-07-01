@@ -1,2 +1,1 @@
-# CirclE
-suitainability app to achieve circular economy 
+# CirclE: a suistanability app to promote a circular economy. a circular economy focuses on reuse, reduce and recycle to manage trash pollution, while our current linear economy adopts a take, make and waste operation. currently efficient trash management practices are disregarded to an extent, resulting in waste being disposed in landfills 
